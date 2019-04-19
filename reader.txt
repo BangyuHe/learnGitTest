@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change of changs.
 this is branch test.
 Creating a new branch is quick & simple.
+people is good feature.
